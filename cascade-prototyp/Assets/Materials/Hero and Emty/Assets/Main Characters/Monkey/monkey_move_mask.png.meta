@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 23296546640d2e840a9b9c9ef77c4815
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2196957499927024714
+    second: monkey_move_mask_0
+  - first:
+      213: 1915924211028368908
+    second: monkey_move_mask_1
+  - first:
+      213: -710659684854060780
+    second: monkey_move_mask_2
+  - first:
+      213: -1649492309527407944
+    second: monkey_move_mask_3
+  - first:
+      213: 2312134101698682222
+    second: monkey_move_mask_4
+  - first:
+      213: 2099176760786813172
+    second: monkey_move_mask_5
+  - first:
+      213: 354334506949531370
+    second: monkey_move_mask_6
+  - first:
+      213: -2884613052931668076
+    second: monkey_move_mask_7
+  - first:
+      213: -5525614412904668554
+    second: monkey_move_mask_8
+  - first:
+      213: -6601607276082339882
+    second: monkey_move_mask_9
+  - first:
+      213: -2355963140147695254
+    second: monkey_move_mask_10
+  - first:
+      213: -2852530272478251052
+    second: monkey_move_mask_11
+  - first:
+      213: 5722939324006449206
+    second: monkey_move_mask_12
+  - first:
+      213: -5914410957658924849
+    second: monkey_move_mask_13
+  - first:
+      213: -2599359939740626325
+    second: monkey_move_mask_14
+  - first:
+      213: -6985561110241858699
+    second: monkey_move_mask_15
+  - first:
+      213: -6179318856287303430
+    second: monkey_move_mask_16
+  - first:
+      213: -2445498470928920214
+    second: monkey_move_mask_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monkey_move_mask_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 763
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb28363bc6d281e0800000000000000
+      internalID: -2196957499927024714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_move_mask_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 762
+        width: 378
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e9aee3beab69a10800000000000000
+      internalID: 1915924211028368908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_move_mask_2
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 759
+        width: 337
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419251828ca3326f0800000000000000
+      internalID: -710659684854060780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_move_mask_3
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 750
+        width: 374
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b251eedb73db19e0800000000000000
+      internalID: -1649492309527407944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_move_mask_4
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 760
+        width: 415
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d11dc17b9561020800000000000000
+      internalID: 2312134101698682222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_move_mask_5
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 754
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0047b5426c12d10800000000000000
+      internalID: 2099176760786813172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_move_mask_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 460
+        width: 325
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6d3625b59dae400800000000000000
+      internalID: 354334506949531370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_move_mask_7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 458
+        width: 343
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4978d8136bbc7f7d0800000000000000
+      internalID: -2884613052931668076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_move_mask_8
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 469
+        width: 461
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672e909a7f21153b0800000000000000
+      internalID: -5525614412904668554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_move_mask_9
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 471
+        width: 321
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df5a72c8216264a0800000000000000
+      internalID: -6601607276082339882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_move_mask_10
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 470
+        width: 310
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a613597a100fd4fd0800000000000000
+      internalID: -2355963140147695254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_move_mask_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 71
+        width: 300
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7b2ed94d6c968d0800000000000000
+      internalID: -2852530272478251052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_move_mask_12
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 32
+        width: 276
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630c4866ef6fb6f40800000000000000
+      internalID: 5722939324006449206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_move_mask_13
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 74
+        width: 259
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8df05e19acbeda0800000000000000
+      internalID: -5914410957658924849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_move_mask_14
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 157
+        width: 131
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62116428e73debd0800000000000000
+      internalID: -2599359939740626325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_move_mask_15
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 202
+        width: 153
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b204b6e2d4e0f90800000000000000
+      internalID: -6985561110241858699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_move_mask_16
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 67
+        width: 213
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af84f195d36ae3aa0800000000000000
+      internalID: -6179318856287303430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_move_mask_17
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 44
+        width: 170
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a615585f818df0ed0800000000000000
+      internalID: -2445498470928920214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
